@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVAPATIKASI.iml" filepath="$PROJECT_DIR$/JAVAPATIKASI.iml" />
       <module fileurl="file://$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" filepath="$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" filepath="$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" />
     </modules>
   </component>
 </project>
