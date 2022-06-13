@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVAPATIKASI.iml" filepath="$PROJECT_DIR$/JAVAPATIKASI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" filepath="$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" filepath="$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/combination/combination.iml" filepath="$PROJECT_DIR$/combination/combination.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" filepath="$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" filepath="$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" />
+    </modules>
+  </component>
+</project>

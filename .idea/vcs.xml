@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3ve4bolunenlerinortalamasi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BurcBulanProgram" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KdvProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/areaOfCirclePiece" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/artikYil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculateMachine" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calculateVki" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/chinesZodiac" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eventSug" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kullaniciGirisi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/manavKasaProgrami" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sinifiGecme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sortingSmallesttoLargest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tangleArea" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/taximetre" vcs="Git" />
+  </component>
+</project>

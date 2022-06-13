@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56d292a4-0ad1-43f4-95dd-da58fe40c79f" name="Changes" comment="Uslu Sayi Hesaplama">
+      <change afterPath="$PROJECT_DIR$/armStrongSayi/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/Hipotenus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/out/production/Hipotenus/hipotenusproject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenus/src/hipotenusproject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/artikYil" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/chamberArea.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/out/production/chamberArea/chamberArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chamberArea/src/chamberArea.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciftSayilar/ciftSayilar.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciftSayilar/out/production/JavaUygulamalari/CiftSayilar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciftSayilar/out/production/JavaUygulamalari/odev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciftSayilar/src/CiftSayilar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciftSayilar/src/odev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/JavaPatikasi.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/out/production/JavaPatikasi/WhileLoops.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/out/production/JavaPatikasi/loopfor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/out/production/JavaPatikasi/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/out/production/JavaPatikasi/typedliornek.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/src/WhileLoops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/src/loopfor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/src/test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/donguler/src/typedliornek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/flyTicket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/out/production/flyTicket/flyTicket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/flyTicket/src/flyTicket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/usluSayiHesaplayan/usluSayi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/usluSayiHesaplayan/usluSayi.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AJ8MTf5X126AunXsTaDjsMJdNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\LENOVO\IdeaProjects\JAVAPATIKASI" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.usluSayi">
+    <configuration name="combiHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="combiHomework" />
+      <module name="combination" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="dortVeBesinKuvvetleri" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="ciftvedortunkatlariodevi" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="usluSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="usluSayi" />
+      <module name="usluSayiHesaplayan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.usluSayi" />
+        <item itemvalue="Application.combiHomework" />
+        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56d292a4-0ad1-43f4-95dd-da58fe40c79f" name="Changes" comment="" />
+      <created>1654716279497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654716279497</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2 ve 4 bolunebilerin toplamini alan program">
+      <created>1654764258913</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654764258913</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4 ve 5'in kuvvetlerini ekrana yazdiran program.">
+      <created>1654771308934</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654771308934</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4 ve 5'in kuvvetlerini ekrana yazdiran program.">
+      <created>1654771327418</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654771327418</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4 ve 5'in kuvvetlerini ekrana yazdiran program.">
+      <created>1654853688013</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654853688013</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4 ve 5'in kuvvetlerini ekrana yazdiran program.">
+      <created>1654858218609</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654858218609</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Diger">
+      <created>1654858246289</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654858246289</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Diger">
+      <created>1654858259728</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654858259728</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Diger">
+      <created>1654858713645</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654858713645</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Us Alma Programi">
+      <created>1654861915181</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654861915181</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Uslu Sayi Hesaplama">
+      <created>1654862032288</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654862032288</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 ve 4 bolunebilerin toplamini alan program" />
+    <MESSAGE value="4 ve 5'in kuvvetlerini ekrana yazdiran program." />
+    <MESSAGE value="Diger" />
+    <MESSAGE value="Us Alma Programi" />
+    <MESSAGE value="Uslu Sayi Hesaplama" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uslu Sayi Hesaplama" />
+  </component>
+</project>
