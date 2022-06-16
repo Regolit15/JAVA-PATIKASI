@@ -78,3 +78,4 @@ public class homeWork {
 
 }
 
+// Case 4 secildiginde dongu sonlanmiyor. Bir bug var. Yardimci olabilen cikarsa Sevinirim!
