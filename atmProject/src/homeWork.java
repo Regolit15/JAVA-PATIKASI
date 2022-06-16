@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class homeWork {
@@ -8,13 +9,18 @@ public class homeWork {
         int balance = 3000;
         int select;
 
+        System.out.println("Merhaba, Java Bankasina Hos Geldiniz!");
+
         System.out.print("Kullanici Adiniz :");
         userName = input.nextLine();
         System.out.print("Sifreniz :");
         passWord = input.nextLine();
+
         while (right > 0) {
+
+
             if (userName.equals("Regolit15") && passWord.equals("pati123")) {
-                System.out.println("Merhaba, Java Bankasina Hos Geldiniz!");
+                System.out.println("Hesabiniza Hos Geldiniz!");
                 System.out.println("Lutfen Yapacaginiz Islemi Rakamlar ile Belirtiniz :\n" +
                         "1-Para Yatirma\n" +
                         "2-Para Cekme\n" +
@@ -23,6 +29,8 @@ public class homeWork {
 
                 System.out.print("Seciminiz :");
                 select = input.nextInt();
+
+
                 switch (select) {
                     case 1:
                         System.out.print("Yatirma Istediginiz Tutari Giriniz :");
@@ -40,16 +48,20 @@ public class homeWork {
                         }
                         break;
                     case 3:
-                        System.out.print("Hesabinizin Bakiyesi :" + balance);
+                        System.out.println("Hesabinizin Bakiyesi :" + balance);
                         break;
+
+
                     case 4:
-                        System.out.println("Gule Gule");
+                        System.out.print("Tekrar Gorusmek Uzere!");
                         break;
 
                     default:
-                        System.out.print("Seciminiz Hatali Tekrar Deneyiniz!");
+                        System.out.print("Yanlis Tuslama");
+                        break;
 
                 }
+
 
             } else {
                 right--;
@@ -61,8 +73,8 @@ public class homeWork {
                     System.out.println("Kalan Deneme Sayiniz :" + right);
                 }
             }
-
         }
-
     }
+
 }
+
