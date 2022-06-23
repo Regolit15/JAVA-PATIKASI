@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/makeAstar/makeAstar.iml" filepath="$PROJECT_DIR$/makeAstar/makeAstar.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxMinnumber/maxMinnumber.iml" filepath="$PROJECT_DIR$/maxMinnumber/maxMinnumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/polindromSayilar/polindromSayilar.iml" filepath="$PROJECT_DIR$/polindromSayilar/polindromSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeNumbers/primeNumbers.iml" filepath="$PROJECT_DIR$/primeNumbers/primeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" filepath="$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" />
     </modules>
