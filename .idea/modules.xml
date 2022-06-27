@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVAPATIKASI.iml" filepath="$PROJECT_DIR$/JAVAPATIKASI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" filepath="$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" filepath="$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/atmProject/atmProject.iml" filepath="$PROJECT_DIR$/atmProject/atmProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" filepath="$PROJECT_DIR$/ciftvedortunkatlariodevi/ciftvedortunkatlariodevi.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" filepath="$PROJECT_DIR$/dortVeBesinKuvvetleri/dortVeBesinKuvvetleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/ebobEkok/ebobEkok.iml" filepath="$PROJECT_DIR$/ebobEkok/ebobEkok.iml" />
       <module fileurl="file://$PROJECT_DIR$/fibonacciSerie/fibonacciSerie.iml" filepath="$PROJECT_DIR$/fibonacciSerie/fibonacciSerie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gelismisHesapmak/gelismisHesapmak.iml" filepath="$PROJECT_DIR$/gelismisHesapmak/gelismisHesapmak.iml" />
       <module fileurl="file://$PROJECT_DIR$/harmonicSerie/harmonicSerie.iml" filepath="$PROJECT_DIR$/harmonicSerie/harmonicSerie.iml" />
       <module fileurl="file://$PROJECT_DIR$/invertedTriangle/invertedTriangle.iml" filepath="$PROJECT_DIR$/invertedTriangle/invertedTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/makeAstar/makeAstar.iml" filepath="$PROJECT_DIR$/makeAstar/makeAstar.iml" />
