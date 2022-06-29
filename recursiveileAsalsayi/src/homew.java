@@ -19,14 +19,15 @@ public class homew {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("Programa Hos Geldiniz!");
-        System.out.print("Lutfen Sayi Giriniz : ");
-        int sayi=scan.nextInt();
-        if(isPrime(sayi,2)){
-            System.out.println(sayi+ " Sayisi Asal Sayidir");
-        }else{
-            System.out.println(sayi+ " Sayisi Asal Sayi Degildir");
+        while(true) {
+            System.out.print("Lutfen Sayi Giriniz : ");
+            int sayi = scan.nextInt();
+            if (isPrime(sayi, 2)) {
+                System.out.println(sayi + " Sayisi Asal Sayidir");
+            } else {
+                System.out.println(sayi + " Sayisi Asal Sayi Degildir");
+            }
         }
-
     }
 }
 
