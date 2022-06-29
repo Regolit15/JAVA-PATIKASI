@@ -16,7 +16,6 @@ public class homew {
         return isPrime(sayi,i+1);
 
     }
-
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("Programa Hos Geldiniz!");
