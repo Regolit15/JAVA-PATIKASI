@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class homew {
     static boolean isPrime(int sayi,int i){
 
