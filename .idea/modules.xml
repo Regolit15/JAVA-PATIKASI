@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVAPATIKASI.iml" filepath="$PROJECT_DIR$/JAVAPATIKASI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obs/Obs.iml" filepath="$PROJECT_DIR$/Obs/Obs.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" filepath="$PROJECT_DIR$/RecursiveFibonacci/RecursiveFibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" filepath="$PROJECT_DIR$/armStrongSayi/armStrongSayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/atmProject/atmProject.iml" filepath="$PROJECT_DIR$/atmProject/atmProject.iml" />
