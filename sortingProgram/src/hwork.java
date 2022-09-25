@@ -14,7 +14,7 @@ public class hwork {
             System.out.print((i+1)+". Number: ");
             list[i]=scan.nextInt();
         }
-        System.out.println("Smallest To Largest Sorting Of Your Array");
+        System.out.print("Smallest To Largest Sorting Of Your Array:");
         Arrays.sort(list);
         System.out.println(Arrays.toString(list));
 
