@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/recursiveIleUsalma/recursiveIleUsalma.iml" filepath="$PROJECT_DIR$/recursiveIleUsalma/recursiveIleUsalma.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursiveileAsalsayi/recursiveileAsalsayi.iml" filepath="$PROJECT_DIR$/recursiveileAsalsayi/recursiveileAsalsayi.iml" />
       <module fileurl="file://$PROJECT_DIR$/repetitiveNumber/repetitiveNumber.iml" filepath="$PROJECT_DIR$/repetitiveNumber/repetitiveNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sortingProgram/sortingProgram.iml" filepath="$PROJECT_DIR$/sortingProgram/sortingProgram.iml" />
       <module fileurl="file://$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" filepath="$PROJECT_DIR$/usluSayiHesaplayan/usluSayiHesaplayan.iml" />
     </modules>
   </component>
