@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/matrixTranspoze/matrixTranspoze.iml" filepath="$PROJECT_DIR$/matrixTranspoze/matrixTranspoze.iml" />
       <module fileurl="file://$PROJECT_DIR$/maxMinnumber/maxMinnumber.iml" filepath="$PROJECT_DIR$/maxMinnumber/maxMinnumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/neighborNumber/neighborNumber.iml" filepath="$PROJECT_DIR$/neighborNumber/neighborNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromikKelimeler/palindromikKelimeler.iml" filepath="$PROJECT_DIR$/palindromikKelimeler/palindromikKelimeler.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfectNumber/perfectNumber.iml" filepath="$PROJECT_DIR$/perfectNumber/perfectNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/polindromSayilar/polindromSayilar.iml" filepath="$PROJECT_DIR$/polindromSayilar/polindromSayilar.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeNumbers/primeNumbers.iml" filepath="$PROJECT_DIR$/primeNumbers/primeNumbers.iml" />
